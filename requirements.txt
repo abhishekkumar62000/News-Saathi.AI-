@@ -8,5 +8,5 @@ wordcloud
 json-repair
 matplotlib
 setuptools
-
-
+lxml
+lxml_html_clean
