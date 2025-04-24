@@ -1,0 +1,6 @@
+crewai_tools
+streamlit
+dotenv
+math
+wordcloud 
+matplotlib
