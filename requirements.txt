@@ -1,5 +1,7 @@
-crewai_tools
 streamlit
-dotenv
-wordcloud 
+requests
+python-dotenv
+wordcloud
 matplotlib
+newspaper3k
+nltk
