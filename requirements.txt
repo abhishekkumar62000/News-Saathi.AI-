@@ -6,4 +6,5 @@ requests
 python-dotenv
 wordcloud
 json-repair
+distutils
 
