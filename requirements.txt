@@ -1,7 +1,8 @@
 streamlit
+crewai
+crewai_tools
+pysqlite3-binary
 requests
 python-dotenv
 wordcloud
-matplotlib
-newspaper3k
-nltk
+json-repair
