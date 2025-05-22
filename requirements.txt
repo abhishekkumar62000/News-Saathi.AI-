@@ -10,3 +10,5 @@ matplotlib
 setuptools
 lxml
 lxml_html_clean
+newspaper3k
+nltk
